@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">Eu sou o Adilson, tenho 31 anos e sou do estado do  Maranhão-BR.</p>
+<p align="center">Eu sou o Adilson, tenho 32 anos e sou do estado do  Maranhão-BR.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Passando raiva com bugs desde 2023.<br>📚 Atualmente sou acadêmico de Engenharia de Software.<br>🎯 Sou formado em pedagogia e tenho 4 pós-graduações, sendo 2 na área de educação e tecnologia.<br>🎲 Gosto de RPG, jogos de tabuleiro e de estratégia.</p>
+<p align="left">✨ Resolvendo bugs desde 2023.<br>📚 Atualmente sou acadêmico de Engenharia de Software.<br>🎯 Sou formado em pedagogia e tenho 4 pós-graduações, sendo 2 na área de educação e tecnologia.<br>🎲 Gosto de RPG, jogos de tabuleiro e de estratégia.</p>
 
 ###
 
