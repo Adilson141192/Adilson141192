@@ -1,16 +1,16 @@
-<h1 align="center">Oi! Tudo beleza?</h1>
+<h1 align="center">E aí, beleza?</h1>
 
 ###
 
-<p align="center">Eu sou o Adilson, tenho 32 anos e sou do estado do  Maranhão-BR.</p>
+<p align="center">Eu sou o Adilson Junior, tenho 32 anos e sou do estado do  Maranhão-BR.</p>
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">Sobre mim</h2>
 
 ###
 
-<p align="left">✨ Resolvendo bugs desde 2023.<br>📚 Atualmente sou acadêmico de Engenharia de Software.<br>🎯 Sou formado em pedagogia e tenho 4 pós-graduações, sendo 2 na área de educação e tecnologia.<br>🎲 Gosto de RPG, jogos de tabuleiro e de estratégia.</p>
+<p align="left">✨ Resolvendo bugs desde 2023.<br>📚 Atualmente sou acadêmico de Engenharia de Software e de Licenciatura em Informática.<br>🎯 Sou formado em pedagogia e tenho 4 pós-graduações, sendo 2 na área de educação e tecnologia.<br>🎲 Gosto de RPG, jogos de tabuleiro e de estratégia.</p>
 
 ###
 
